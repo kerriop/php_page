@@ -16,7 +16,7 @@ session_start();
 						<input name="username" type="text" placeholder="Логин">
 					</p>
 					<p>
-						<input name="password" type="password" placeholder="Пароль">
+						<input name="password" type="text" placeholder="Пароль">
 					</p>
 					<p>
 						<input type="submit" name="submit" value="Войти">
